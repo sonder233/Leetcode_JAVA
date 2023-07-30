@@ -1,7 +1,5 @@
 package csdn.stringProblem;
 
-import com.alibaba.druid.sql.visitor.functions.Char;
-
 import java.sql.Array;
 import java.util.Scanner;
 import java.util.Stack;
@@ -9,7 +7,7 @@ import java.util.Stack;
 public class P1_12_2 {
 
     public static void main(String[] args) {
-        String line = "3b33";//这个是问题！
+        String line = "bb3c4b";//这个是问题！
 //        Scanner scanner = new Scanner(System.in);
 //        line = scanner.nextLine();
         int len = line.length();
@@ -38,12 +36,16 @@ public class P1_12_2 {
                 sb_number.append(c_curr);
                 int j=i+1;
                 while (j < len && Character.isDigit(line.charAt(j))){
+                    if(j >= len -1){// 字符串最后一位是数字 违法
+                        System.out.println("!error");
+                        return;
+                    }
                     sb_number.append(line.charAt(j));
                     j++;
                 }
                 i = j ;
                 int number = Integer.parseInt(sb_number.toString());
-                if (number<= 2) {
+                if (number < 3 ) {
                     System.out.println("!error");
                     return;
                 }
@@ -60,6 +62,8 @@ public class P1_12_2 {
                     sb_repeat.append(c_next);
                 }
                 sb_result.append(sb_repeat);
+                //然后清空缓存串
+                sb_buffer = new StringBuilder();
             } else if (Character.isLowerCase(c_curr)) {
                 if (sb_repeat.length() > 0 ){//说明上一个是通过数字+字母方式获得的
                     if (c_curr==sb_repeat.charAt(0)){//违法的 --> 4aa
