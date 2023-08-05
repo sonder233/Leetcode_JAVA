@@ -93,7 +93,7 @@ public class P1_31 {
                 flag[i] = 1;
             }
         }
-        if (recordList.size() == 1){
+        if (recordList.size() == 1 && flag[0] == 1){
             System.out.println(clockRecords[0]);
             return;
         }

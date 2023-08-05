@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcafa935-2b21-4353-8469-3fb68cbe0317" name="Changes" comment="more practice 7-31">
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_30_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java" afterDir="false" />
+    <list default="true" id="fcafa935-2b21-4353-8469-3fb68cbe0317" name="Changes" comment="more practice 8-2">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_0_50/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/LuoJi/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode_0_50/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_0_50/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,59 +70,7 @@
       <recent name="myJDBC" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1_31">
-    <configuration name="P1_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_28" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_29" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_30" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1_30_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_30_2" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P1_34">
     <configuration name="P1_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_31" />
       <module name="Leetcode_java" />
@@ -133,13 +84,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_32" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.stringProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1_32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_32_2" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.stringProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_33" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.stringProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_34" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.stringProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1_34" />
+        <item itemvalue="Application.P1_33" />
+        <item itemvalue="Application.P1_32_2" />
+        <item itemvalue="Application.P1_32" />
         <item itemvalue="Application.P1_31" />
-        <item itemvalue="Application.P1_30_2" />
-        <item itemvalue="Application.P1_30" />
-        <item itemvalue="Application.P1_29" />
-        <item itemvalue="Application.P1_28" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +229,11 @@
       <workItem from="1690514771108" duration="25041000" />
       <workItem from="1690706957122" duration="38632000" />
       <workItem from="1690873999137" duration="25539000" />
-      <workItem from="1690969738073" duration="5721000" />
+      <workItem from="1690969738073" duration="5922000" />
+      <workItem from="1691072533293" duration="1994000" />
+      <workItem from="1691102648786" duration="1442000" />
+      <workItem from="1691114473719" duration="24465000" />
+      <workItem from="1691222190197" duration="14434000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1681959019958</created>
@@ -270,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690882516079</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="more practice 8-2">
+      <created>1690988257666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690988257666</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +296,8 @@
     <MESSAGE value="more practice" />
     <MESSAGE value="more practice 7-30" />
     <MESSAGE value="more practice 7-31" />
-    <option name="LAST_COMMIT_MESSAGE" value="more practice 7-31" />
+    <MESSAGE value="more practice 8-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="more practice 8-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,6 +890,51 @@
           <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java</url>
           <line>89</line>
           <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32_2.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32_2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_32_2.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_33.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_34.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/stringProblem/P1_34.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="239" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
