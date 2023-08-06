@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcafa935-2b21-4353-8469-3fb68cbe0317" name="Changes" comment="more practice 8-2">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_0_50/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/LuoJi/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_32_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_35.java" afterDir="false" />
+    <list default="true" id="fcafa935-2b21-4353-8469-3fb68cbe0317" name="Changes" comment="more practice 8-5">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_0_50/Q46_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_101_200/Q169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_51_100/Q77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode_0_50/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_0_50/Q15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/csdn/stringProblem/P1_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csdn/FenZhi/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/csdn/FenZhi/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode_51_100/Q60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode_51_100/Q61.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,46 +68,7 @@
       <recent name="myJDBC" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1_34">
-    <configuration name="P1_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_31" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_32" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1_32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_32_2" />
-      <module name="Leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csdn.stringProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q3">
     <configuration name="P1_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csdn.stringProblem.P1_33" />
       <module name="Leetcode_java" />
@@ -136,13 +95,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.FenZhi.Q1" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.FenZhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.FenZhi.Q2" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.FenZhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csdn.FenZhi.Q3" />
+      <module name="Leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csdn.FenZhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q1" />
         <item itemvalue="Application.P1_34" />
         <item itemvalue="Application.P1_33" />
-        <item itemvalue="Application.P1_32_2" />
-        <item itemvalue="Application.P1_32" />
-        <item itemvalue="Application.P1_31" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +231,9 @@
       <workItem from="1691072533293" duration="1994000" />
       <workItem from="1691102648786" duration="1442000" />
       <workItem from="1691114473719" duration="24465000" />
-      <workItem from="1691222190197" duration="14434000" />
+      <workItem from="1691222190197" duration="15686000" />
+      <workItem from="1691257389983" duration="774000" />
+      <workItem from="1691307640626" duration="17527000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1681959019958</created>
@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690988257666</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="more practice 8-5">
+      <created>1691246691758</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691246691758</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +304,8 @@
     <MESSAGE value="more practice 7-30" />
     <MESSAGE value="more practice 7-31" />
     <MESSAGE value="more practice 8-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="more practice 8-2" />
+    <MESSAGE value="more practice 8-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="more practice 8-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -538,7 +546,7 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode_51_100/Q60.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode_51_100/Q61.java</url>
           <line>40</line>
           <option name="timeStamp" value="88" />
         </line-breakpoint>
@@ -936,6 +944,11 @@
           <line>34</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/FenZhi/Q3.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="176" />
@@ -946,5 +959,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode_java$Q3.ic" NAME="Q3 Coverage Results" MODIFIED="1691330192019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>csdn.FenZhi.*</FILTER>
+    </SUITE>
   </component>
 </project>

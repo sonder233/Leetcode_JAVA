@@ -8,7 +8,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class Q60 {
+public class Q61 {
     public static ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k==0 ){
             return head;
